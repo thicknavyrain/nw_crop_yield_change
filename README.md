@@ -1,4 +1,4 @@
-# 🌾❄️ NuclearWinterCropYieldAnalysis
+# 🌾❄️ Nuclear Winter Crop Yield Analysis
 
 Code and scripts for calculating percentage changes in crop and grass yields under different soot emission scenarios associated with varying intensities of nuclear winters.
 
